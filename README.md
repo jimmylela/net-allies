@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Net Allies! 
+
+Are you battling an Internet or network problem?  **You need allies!**
+
+This site is under construction. Please contact us at [info@net.allies.com](info@net-allies.com).
 
 You can use the [editor on GitHub](https://github.com/jimmylela/net-allies/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
